@@ -1,0 +1,9 @@
+2026-08-07 11:29:55,732 - INFO - Expenses loaded successfully.
+2026-08-07 11:29:55,737 - INFO - Expense Tracker application started.
+2026-08-07 11:30:29,078 - INFO - Expenses saved successfully.
+2026-08-07 11:30:29,079 - INFO - Expense added: 1
+2026-08-07 11:30:32,423 - INFO - Displayed all expenses.
+2026-08-07 11:30:37,598 - INFO - Displayed all expenses.
+2026-08-07 11:30:49,316 - INFO - Category-wise summary generated.
+2026-08-07 11:30:52,070 - INFO - Highest expense calculated.
+2026-08-07 11:30:58,615 - INFO - Expense Tracker application closed.
